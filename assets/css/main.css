@@ -2095,6 +2095,14 @@ input, select, textarea {
 			padding: 0;
 		}
 
+		.techStack {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			
+		}
+
 /* Icon */
 
 	.icon {
